@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @ChuXukang
 - 👀 I’m interested in games.
-- 🌱 I’m currently learning Internet front end.
-- 💞️ I’m looking to collaborate on games.
+- 🌱 I’m currently learning C# .net framwork.
+- 💞️ I’m looking to collaborate on .net.
 - 📫 How to reach me C151860@163.com
 
 <!---
